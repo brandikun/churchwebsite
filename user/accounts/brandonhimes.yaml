@@ -1,0 +1,11 @@
+email: brandon.himes@yahoo.com
+fullname: 'Brandon Himes'
+title: administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$dkuSpC2WZYG8LDlBuWRzlOeKXkqIqWwUQYupVUTD6Kq1GB4if8xTq
