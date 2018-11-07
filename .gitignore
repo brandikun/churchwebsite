@@ -1,0 +1,26 @@
+# Sass
+.sass-cache
+*.map
+
+/vendor
+
+tests/_output/*
+tests/_support/_generated/*
+tests/cache/*
+tests/error.log
+
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+
+
+# Optional REPL history
+.node_repl_history
+.idea/hammes.iml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/dictionaries/Sebastian.xml
+.idea/inspectionProfiles/Project_Default.xml
